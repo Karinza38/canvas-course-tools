@@ -1,4 +1,4 @@
-# canvas-course-tools
+ # canvas-course-tools
 
 Canvas course tools was created at the physics practicals at the Vrije Universiteit Amsterdam to greatly reduce the time needed to create class lists (with photos!) for staff and teaching assistants.
 Class lists are also created for students so that they can easily lookup their assigned experiments and TA's.
